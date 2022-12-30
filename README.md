@@ -1,12 +1,13 @@
 ## Welcome, Felipe Here!
 <div>
   
-  <img  height="165em" src="https://github-readme-stats.vercel.app/api?username=felipemendes1409&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=felipemendes1409&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemendes1409&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 
 <h1 align="center">Skills</h1>
+
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
