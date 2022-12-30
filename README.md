@@ -1,10 +1,9 @@
 ## Welcome, Felipe Here!
-<div>
-  
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=felipemendes1409&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="left" height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemendes1409&layout=compact&langs_count=16&theme=great-gatsby"/><br>
+<div align="center">
+  <a href="https://github.com/felipemendes1409">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipemendes1409&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemendes1409&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<br>
 
 <h1 align="center">Skills</h1>
 
